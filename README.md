@@ -9,6 +9,12 @@ A Next.js + TypeScript application shell that preserves the current interactive 
 
 The current demo is intentionally served from `public/prototype/index.html` inside the Next.js shell. This preserves its complete, validated behaviour during the component migration.
 
+## Language and role experience
+
+- **Bahasa Indonesia** is the default UI language for operational use, while retaining familiar technical terms such as `setpoint`, `defect rate`, and `root cause` where they improve clarity.
+- **English** remains available from the language selector for regional or global stakeholder demos.
+- The Line Operator view prioritizes short Indonesian first-action instructions. Engineer and Senior Engineer views retain additional technical context and governance controls.
+
 `lib/domain.ts` contains the initial TypeScript domain vocabulary for the future API and Neon database migration. It does not establish a database connection yet.
 
 ## Open in Codex

@@ -9,7 +9,7 @@ export function PrototypeFrame() {
     <main className="app-shell">
       <div className="prototype-status" aria-live="polite">
         <span className="status-dot" />
-        <span>{loaded ? 'Prototype ready · simulated data only' : 'Loading prototype…'}</span>
+        <span>{loaded ? 'Prototype siap · hanya data simulasi' : 'Memuat prototype…'}</span>
       </div>
       <iframe
         className="prototype-frame"
