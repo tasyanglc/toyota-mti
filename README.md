@@ -2,7 +2,7 @@
 
 **Human-Centered Manufacturing Intelligence Platform**
 
-An AI-powered problem-solving system that helps Toyota engineers accelerate diagnosis, improve decision making, and preserve manufacturing knowledge. The existing workflow remains a browser-only simulation while its UI is migrated incrementally into typed React components.
+An engineering intelligence layer that connects production signals, human decisions, and organizational learning. It helps Toyota engineers accelerate diagnosis, improve decision making, and preserve verified Kaizen knowledge. The existing workflow remains a browser-only simulation while its UI is migrated incrementally into typed React components.
 
 ## Run locally
 1. Install dependencies: `npm install`
@@ -39,6 +39,10 @@ The interactive prototype uses one browser-local `mockData` source for the seede
 - Verification → run simulated verification
 - Knowledge Base → switch role to Senior Engineer and validate article
 - Audit Trail → review activity or export JSON
+
+## FLEX positioning
+
+The prototype represents **eXpand Intelligence with AI** within the FLEX strategy, not autonomous factory control. The Control Center is an Engineering Awareness Workspace, Diagnosis consolidates evidence and hypotheses for an engineer-led decision, and Verification closes the Kaizen Learning Loop by routing a verified countermeasure to senior validation and controlled future retrieval.
 
 ## Important limitations
 - All data and outcomes are simulated.
