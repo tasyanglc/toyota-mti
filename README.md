@@ -1,6 +1,8 @@
-# Toyota Manufacturing Copilot — Pillar 2 (Prototype)
+# Toyota AI Kaizen Copilot
 
-A Next.js + TypeScript application shell that preserves the current interactive manufacturing-copilot demo. The existing workflow remains a browser-only simulation while its UI is migrated incrementally into typed React components.
+**Human-Centered Manufacturing Intelligence Platform**
+
+An AI-powered problem-solving system that helps Toyota engineers accelerate diagnosis, improve decision making, and preserve manufacturing knowledge. The existing workflow remains a browser-only simulation while its UI is migrated incrementally into typed React components.
 
 ## Run locally
 1. Install dependencies: `npm install`
