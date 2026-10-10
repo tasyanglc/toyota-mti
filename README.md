@@ -19,6 +19,8 @@ The current demo is intentionally served from `public/prototype/index.html` insi
 
 `lib/domain.ts` contains the initial TypeScript domain vocabulary for the future API and Neon database migration. It does not establish a database connection yet.
 
+The interactive prototype uses one browser-local `mockData` source for the seeded incident, machine evidence, validated knowledge case, structured knowledge article, and audit timeline. No production data or external integration is used.
+
 ## Open in Codex
 1. Open the project folder in Codex.
 2. Run `npm install`, then `npm run dev`.
